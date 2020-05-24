@@ -50,7 +50,7 @@
 
   - https://github.com/JNU-econovation/2020-1-I-Am-Ground
 
-- `master`브랜치를 기준으로 자신만의 새로운 브랜치를 만들어주세요. 브랜치 이름은 본인의 GitHub 아이디로 해주세요.
+- `new_master`브랜치를 기준으로 자신만의 새로운 브랜치를 만들어주세요. 브랜치 이름은 본인의 GitHub 아이디로 해주세요.
 
 - 자기소개 문서를 작성하여 해당 브랜치로 `commit`합니다.
 
