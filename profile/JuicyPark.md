@@ -24,7 +24,7 @@
 
 나 자신과의 약속으로 "취업전까진 개발이든 면접공부든(**의미 있는 커밋**) 매일 **꾸준하게** 하자" 로 마음먹어서 지금까지는 잘 지켜지고 있는것 같아요. 
 
-<img src="https://user-images.githubusercontent.com/31693348/82782079-709f6a00-9e96-11ea-9ba4-a47a13d68e20.png" width="250" height="250"> 
+<img src="https://user-images.githubusercontent.com/31693348/82782079-709f6a00-9e96-11ea-9ba4-a47a13d68e20.png" width="250" height="250"> (코드스타일에서는 이미지가 안보이군요 ㅠㅠ..)
 
 삶에 여유가 생길땐 1~2주 정도 간이 프로젝트를 만들어보곤 했는데 (애니멀스와이프디펜스, EcoPlayer 등) 최근엔... 여유가 없어서 손이 간질간질한 상태입니다👋👋👋 
 
