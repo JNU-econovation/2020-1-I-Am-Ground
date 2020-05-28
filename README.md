@@ -62,7 +62,7 @@
 
 - 자신이 만든 브랜치를 `origin/자신의 브랜치`로 `push`합니다.
 
-- GitHub에서 `자신이 브랜치`에서 `master` 브랜치로 pull request 날립니다.
+- GitHub에서 `자신의 브랜치`에서 `master` 브랜치로 pull request 날립니다.
 
   - 제목은 '자신의 이름(GitHub 아이디) - 자기 소개 ' 로 해주세요.
 
